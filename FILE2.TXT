@@ -1,1 +1,2 @@
 THIS IS A FILE2
+We made a change
